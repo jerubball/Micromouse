@@ -1,2 +1,4 @@
 # Micromouse
-code for IEEE Micromouse competition
+Code for IEEE Micromouse competition
+
+For usage, please contact him@nyit.edu or ieeema@nyit.edu.
